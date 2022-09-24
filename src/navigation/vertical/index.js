@@ -39,7 +39,7 @@ function processMenu() {
   chainMenus.push({
     title: 'Github',
     href: 'https://github.com/AlexToTheSun',
-    icon: 'https://raw.githubusercontent.com/AlexToTheSun/explorer/second/public/logo_tur.svg',
+    icon: 'GithubIcon',
   })
   chainMenus.push({
     title: 'Twitter',
