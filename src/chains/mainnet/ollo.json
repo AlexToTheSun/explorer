@@ -1,0 +1,19 @@
+{
+  "chain_name": "ollo",
+  "api": ["http://185.16.39.3:32317"],
+  "rpc": ["http://185.16.39.3:32657"],
+  "snapshot_provider": "",
+  "sdk_version": "0.45.7",
+  "coin_type": "118",
+  "min_tx_fee": "500",
+  "assets": [
+    {
+      "base": "utollo",
+      "symbol": "OLLO",
+      "exponent": "6",
+      "coingecko_id": "",
+      "logo": "https://raw.githubusercontent.com/kj89/testnet_manuals/main/pingpub/logos/ollo.png"
+    }],
+  "addr_prefix": "ollo",
+  "logo": "https://raw.githubusercontent.com/kj89/testnet_manuals/main/pingpub/logos/ollo.png"
+}
