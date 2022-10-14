@@ -1,19 +1,19 @@
 {
-  "chain_name": "haqq",
-  "api": ["http://146.19.24.139:42317"],
-  "rpc": ["http://146.19.24.139:42657"],
-  "snapshot_provider": "",
-  "sdk_version": "0.45.5",
-  "coin_type": "60",
-  "min_tx_fee": "800",
-  "assets": [
-    {
-      "base": "aISLM",
-      "symbol": "ISLM",
-      "exponent": "18",
-      "coingecko_id": "",
-      "logo": "https://raw.githubusercontent.com/AlexToTheSun/Validator_Activity/main/Testnet-guides/Haqq/explorer/HAQQ.svg"
-    }],
-  "addr_prefix": "haqq",
-  "logo": "https://raw.githubusercontent.com/AlexToTheSun/Validator_Activity/main/Testnet-guides/Haqq/explorer/HAQQ.svg"
+    "chain_name": "haqq",
+    "coingecko": "",
+    "api": ["https://rest.cosmos.testedge2.haqq.network","http://146.19.24.139:42317"],
+    "rpc": ["https://rpc.tm.testedge2.haqq.network","http://146.19.24.139:42657"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.3",
+    "coin_type": "60",
+    "min_tx_fee": "3000000000000000",
+    "addr_prefix": "haqq",
+    "logo": "/logos/haqq.svg",
+    "assets": [{
+        "base": "aISLM",
+        "symbol": "ISLM",
+        "exponent": "18",
+        "coingecko_id": "",
+        "logo": "/logos/islm.svg"
+    }]
 }
