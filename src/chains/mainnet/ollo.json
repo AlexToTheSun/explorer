@@ -1,7 +1,7 @@
 {
     "chain_name": "ollo",
     "coingecko": "", 
-    "api": ["http://185.16.39.3:32317"], 
+    "api": ["http://185.16.39.3:32317","https://ollo.api.t.stavr.tech"], 
     "rpc": ["http://185.16.39.3:32657"],
     "snapshot_provider": "5f2e17783db19bcf868b03a1ee0a6e2cc47df6d3@185.16.39.3:32656",
     "sdk_version": "0.45.7",
