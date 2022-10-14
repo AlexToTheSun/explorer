@@ -8,12 +8,12 @@
     "coin_type": "60",
     "min_tx_fee": "3000000000000000",
     "addr_prefix": "haqq",
-    "logo": "/logos/haqq.svg",
+    "logo": "https://raw.githubusercontent.com/AlexToTheSun/Validator_Activity/main/Testnet-guides/Haqq/explorer/HAQQ.svg",
     "assets": [{
         "base": "aISLM",
         "symbol": "ISLM",
         "exponent": "18",
         "coingecko_id": "",
-        "logo": "/logos/islm.svg"
+        "logo": "https://raw.githubusercontent.com/AlexToTheSun/Validator_Activity/main/Testnet-guides/Haqq/explorer/HAQQ.svg"
     }]
 }
