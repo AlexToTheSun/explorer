@@ -1,19 +1,19 @@
 {
-  "chain_name": "source",
-  "api": ["http://194.233.93.124:1317"],
-  "rpc": ["http://194.233.93.124:26657"],
-  "snapshot_provider": "",
-  "sdk_version": "0.45.1",
-  "coin_type": "118",
-  "min_tx_fee": "500",
-  "assets": [
-    {
-      "base": "usource",
-      "symbol": "SOURCE",
-      "exponent": "6",
-      "coingecko_id": "",
-      "logo": "https://raw.githubusercontent.com/AlexToTheSun/Validator_Activity/main/Testnet-guides/Source/PingPub/source.png"
-    }],
-  "addr_prefix": "source",
-  "logo": "https://raw.githubusercontent.com/AlexToTheSun/Validator_Activity/main/Testnet-guides/Source/PingPub/source.png"
+    "chain_name": "source",
+    "coingecko": "",
+    "api": ["http://194.233.93.124:1317","https://rpc-t.source.nodestake.top"],
+    "rpc": ["http://194.233.93.124:26657","https://api-t.source.nodestake.top"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.1",
+    "coin_type": "118",
+    "min_tx_fee": "30000",
+    "addr_prefix": "source",
+    "logo": "https://raw.githubusercontent.com/AlexToTheSun/Validator_Activity/main/Testnet-guides/Source/PingPub/source.png",
+    "assets": [{
+        "base": "usource",
+        "symbol": "SOURCE",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "https://raw.githubusercontent.com/AlexToTheSun/Validator_Activity/main/Testnet-guides/Source/PingPub/source.png"
+    }]
 }
