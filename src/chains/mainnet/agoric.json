@@ -1,0 +1,24 @@
+{
+    "chain_name": "agoric",
+    "api": ["http://154.12.241.178:1317"],
+    "rpc": ["http://154.12.241.178:26657"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.4",
+    "coin_type": "564",
+    "min_tx_fee": "8000",
+    "assets": [{
+        "base": "ubld",
+        "symbol": "BLD",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "https://raw.githubusercontent.com/Agoric/agoric-sdk/master/packages/wallet/ui/public/tokens/BLD.svg"
+    },{
+        "base": "urun",
+        "symbol": "RUN",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": ""
+    }],
+    "addr_prefix": "agoric",
+    "logo": "https://raw.githubusercontent.com/AlexToTheSun/Validator_Activity/main/Mainnet-Guides/Agoric/PingPub/agoric.png"
+}
