@@ -1,0 +1,19 @@
+{
+  "chain_name": "empower",
+  "api": ["http://146.19.24.139:15317"],
+  "rpc": ["http://146.19.24.139:15657"],
+  "snapshot_provider": "",
+  "sdk_version": "0.46.1",
+  "coin_type": "118",
+  "min_tx_fee": "500",
+  "assets": [
+    {
+      "base": "umpwr",
+      "symbol": "MPWR",
+      "exponent": "6",
+      "coingecko_id": "",
+      "logo": "https://raw.githubusercontent.com/ping-pub/explorer/master/public/logos/empower.png"
+    }],
+  "addr_prefix": "empower",
+  "logo": "https://raw.githubusercontent.com/ping-pub/explorer/master/public/logos/empower.png"
+}
