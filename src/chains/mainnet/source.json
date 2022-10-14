@@ -1,10 +1,10 @@
 {
     "chain_name": "source",
     "coingecko": "",
-    "api": ["http://194.233.93.124:1317","https://rpc-t.source.nodestake.top"],
-    "rpc": ["http://194.233.93.124:26657","https://api-t.source.nodestake.top"],
+    "api": ["https://testnet.sourceprotocol.io:1317"],
+    "rpc": ["https://testnet.sourceprotocol.io:26657"],
     "snapshot_provider": "",
-    "sdk_version": "0.45.1",
+    "sdk_version": "0.44.4",
     "coin_type": "118",
     "min_tx_fee": "30000",
     "addr_prefix": "source",
