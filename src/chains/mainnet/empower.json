@@ -1,7 +1,7 @@
 {
   "chain_name": "empower",
-  "api": ["http://146.19.24.139:15317"],
-  "rpc": ["http://146.19.24.139:15657"],
+  "api": ["https://api-t.empower.nodestake.top","http://146.19.24.139:15317"],
+  "rpc": ["https://rpc-t.empower.nodestake.top","http://146.19.24.139:15657"],
   "snapshot_provider": "",
   "sdk_version": "0.46.1",
   "coin_type": "118",
