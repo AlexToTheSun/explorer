@@ -17,7 +17,7 @@ export const $themeConfig = {
     isRTL: false,
     skin: 'light', // light, dark, bordered, semi-dark
     routerTransition: 'zoom-fade', // zoom-fade, slide-fade, fade-bottom, fade, zoom-out, none
-    type: 'horizontal', // vertical, horizontal
+    type: 'vertical', // vertical, horizontal
     contentWidth: 'boxed', // full, boxed
     menu: {
       hidden: false,
