@@ -1,0 +1,19 @@
+{
+    "chain_name": "uptick",
+    "coingecko": "",
+    "api": ["https://peer1.testnet.uptick.network:1318"],
+    "rpc": ["https://peer1.testnet.uptick.network:36657"],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.0",
+    "coin_type": "60",
+    "min_tx_fee": "30000",
+    "addr_prefix": "uptick",
+    "logo": "https://raw.githubusercontent.com/AlexToTheSun/explorer/master/public/logos/uptick.png",
+    "assets": [{
+        "base": "auptick",
+        "symbol": "UPTICK",
+        "exponent": "18",
+        "coingecko_id": "",
+        "logo": "https://raw.githubusercontent.com/AlexToTheSun/explorer/master/public/logos/uptick.png"
+    }]
+}
