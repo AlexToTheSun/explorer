@@ -1,6 +1,6 @@
 
 {
-    "chain_name": "OKP4 testnet",
+    "chain_name": "OKP4",
     "api": ["https://okp4.api.t.stavr.tech/"],
     "rpc": ["https://okp4.api.t.stavr.tech/rpc"],
     "snapshot_provider": "",
@@ -14,7 +14,7 @@
         "base": "uknow",
         "symbol": "KNOW",
         "exponent": "6",
-        "logo": "/logos/okp4.png"
+        "logo": "https://raw.githubusercontent.com/AlexToTheSun/explorer/master/public/logos/okp4.svg"
       }
     ]
   }
