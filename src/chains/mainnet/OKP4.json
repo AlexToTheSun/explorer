@@ -1,0 +1,20 @@
+
+{
+    "chain_name": "OKP4 testnet",
+    "api": ["https://api-okp4.illuminode.org/"],
+    "rpc": ["https://rpc-okp4.illuminode.org/"],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.2",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "okp4",
+    "logo": "https://raw.githubusercontent.com/AlexToTheSun/explorer/master/public/logos/okp4.svg",
+    "assets": [
+      {
+        "base": "uknow",
+        "symbol": "KNOW",
+        "exponent": "6",
+        "logo": "/logos/okp4.png"
+      }
+    ]
+  }
