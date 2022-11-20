@@ -1,8 +1,8 @@
 
 {
     "chain_name": "OKP4 testnet",
-    "api": ["https://api-okp4.illuminode.org/"],
-    "rpc": ["https://rpc-okp4.illuminode.org/"],
+    "api": ["https://okp4.api.t.stavr.tech/"],
+    "rpc": ["https://okp4.api.t.stavr.tech/rpc"],
     "snapshot_provider": "",
     "sdk_version": "0.46.2",
     "coin_type": "118",
