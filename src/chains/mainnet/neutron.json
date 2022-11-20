@@ -1,0 +1,19 @@
+{
+    "chain_name": "OKP4 testnet",
+    "api": ["http://neutron-rpc.stakeangle.com:1317/"],
+    "rpc": ["https://neutron-rpc.stakeangle.com/"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.5",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "neutron",
+    "logo": "https://raw.githubusercontent.com/AlexToTheSun/explorer/master/public/logos/Neutron.jpeg",
+    "assets": [
+      {
+        "base": "untrn",
+        "symbol": "NTRN",
+        "exponent": "6",
+        "logo": "https://raw.githubusercontent.com/AlexToTheSun/explorer/master/public/logos/Neutron.jpeg"
+      }
+    ]
+  }
