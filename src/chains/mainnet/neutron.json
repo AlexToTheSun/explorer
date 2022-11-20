@@ -1,7 +1,7 @@
 {
     "chain_name": "Neutron",
-    "api": ["http://neutron-rpc.anyvalid.com:1317/","https://neutron.api.t.stavr.tech/"],
-    "rpc": ["https://neutron-rpc.anyvalid.com/","http://neutron.rpc.t.stavr.tech:11057/"],
+    "api": ["https://neutron.api.t.stavr.tech/"],
+    "rpc": ["http://neutron.rpc.t.stavr.tech:11057/"],
     "snapshot_provider": "",
     "sdk_version": "0.45.5",
     "coin_type": "118",
